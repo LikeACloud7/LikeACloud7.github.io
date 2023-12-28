@@ -22,7 +22,7 @@ author: Sejun Park
 navbar-links:
   About Me: "aboutme"
   Study:
-    - Paper review: "study/paper review"
+    - Paper review: "study/papers"
     - Domain: "study/domain"
   Blog: "blog"
 
