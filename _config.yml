@@ -22,8 +22,8 @@ author: Sejun Park
 navbar-links:
   About Me: "aboutme"
   Study:
-    - Paper review: "study/papers"
-    - Project: "study/projects"
+    - Paper review: "study/paper"
+    - Project: "study/project"
   Blog: "blog"
 
 ################
